@@ -1,0 +1,160 @@
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "10.2"
+git-tree-sha1 = "15dcc5e22f8ebaad82b6bffa97daf6a44f19f276"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "e20aa133fe7f6d2c7ec0c450d2b6137620174ca9f60ea341ab123feb199ed280"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-linux-gnu-cuda+10.2.tar.gz"
+[[CUTENSOR]]
+arch = "powerpc64le"
+cuda = "10.2"
+git-tree-sha1 = "2df5a4c3f2e1c921eaa3724571c4099d9983ecc3"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "cfab37f52ff1f674cd7b8d706636c6bb246646338adce231b11d27673334496f"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.powerpc64le-linux-gnu-cuda+10.2.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "10.2"
+git-tree-sha1 = "5d11025a4c743df1082a4856b3f39483617fbda6"
+lazy = true
+os = "windows"
+
+    [[CUTENSOR.download]]
+    sha256 = "2332be46830a0ef45926c6c6b7f0413147cb1ebb9f62f5934f6838ed873b76fc"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-w64-mingw32-cuda+10.2.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.0"
+git-tree-sha1 = "25961dd16749b819d3230ce12529580c78d3430c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "3ebfbf7090f805123ef8d1203b327aa4bfdb4e00f7f410600575715becde0955"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
+[[CUTENSOR]]
+arch = "powerpc64le"
+cuda = "11.0"
+git-tree-sha1 = "b3447b8f7c967399aaae1c26672e24e5807195ab"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "aabc5f523e5028d4142da65bae2d96485b093e3b44ddd87e19815b02219bba86"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.0"
+git-tree-sha1 = "3dab72612d5fba7e4afd82246f2d06c343c8addc"
+lazy = true
+os = "windows"
+
+    [[CUTENSOR.download]]
+    sha256 = "a544c95adcc5d8c56ab86abcda76bba76a6cc013fd65fc690936c36300cf41b7"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-w64-mingw32-cuda+11.0.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.1"
+git-tree-sha1 = "b16345803fd408c25ca8ae5616f177af299d976e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "548c13bfe382e3b048c5ac4b3521cee9a028495db6fc118d564474cb13e1d392"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-linux-gnu-cuda+11.1.tar.gz"
+[[CUTENSOR]]
+arch = "powerpc64le"
+cuda = "11.1"
+git-tree-sha1 = "9c0bd758bd77b0861d981fc7f12753414635850e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "cd2d5e2435de3bd24257493bdeaa5e0aedc47e05cc5bd907392db8f6d79edc8c"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.powerpc64le-linux-gnu-cuda+11.1.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.1"
+git-tree-sha1 = "209952b0cac691fd402374a0d87cd8c2a45c4db2"
+lazy = true
+os = "windows"
+
+    [[CUTENSOR.download]]
+    sha256 = "008dd8c32e078650ce8851f74447d8b4c50db7f11ee2afa147ec33abe64fe2e6"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-w64-mingw32-cuda+11.1.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.2"
+git-tree-sha1 = "2a7274b1a9b380d1661c6573c7fa914714c610f4"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "01de48af31dee09c75fc8625f2794bda2583cfaa18d39dfd7c6154beba39580d"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-linux-gnu-cuda+11.2.tar.gz"
+[[CUTENSOR]]
+arch = "powerpc64le"
+cuda = "11.2"
+git-tree-sha1 = "a9e2009a5ded4ec5b698c5935d675c4686be53e0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "66c3bb6b137a754dacfaad3ae50551999616b54b5e0d46fd569169b3d3b91feb"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.powerpc64le-linux-gnu-cuda+11.2.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.2"
+git-tree-sha1 = "d4a7dc9e04921738d1c27567d0f5736e68906af7"
+lazy = true
+os = "windows"
+
+    [[CUTENSOR.download]]
+    sha256 = "11941967f8385985e246a3865601eaa3a9dec685289ec50bd25591b0d9eaf328"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-w64-mingw32-cuda+11.2.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.3"
+git-tree-sha1 = "286542cc7dfdea649d8ebddc7e3fa24617d5a1ed"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "c6b193eeba5917f39c380d94a9c1ab7888073465ad47f2d8919ab47c9fde5354"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-linux-gnu-cuda+11.3.tar.gz"
+[[CUTENSOR]]
+arch = "powerpc64le"
+cuda = "11.3"
+git-tree-sha1 = "6de995a13bb8daff9b5fe63ac84bc943bd03a88c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR.download]]
+    sha256 = "87c9f106d261bee54ea399ffbb52e4b25f93374f204b26786a1d13bc3ae6c93a"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.powerpc64le-linux-gnu-cuda+11.3.tar.gz"
+[[CUTENSOR]]
+arch = "x86_64"
+cuda = "11.3"
+git-tree-sha1 = "52939d341ecb01111509a1e967f39442a45315e8"
+lazy = true
+os = "windows"
+
+    [[CUTENSOR.download]]
+    sha256 = "52702a9a6a641f2be7125802e656c63bf3a678a21101273ede5f0e04ded28b1c"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v1.3.0+0/CUTENSOR.v1.3.0.x86_64-w64-mingw32-cuda+11.3.tar.gz"
