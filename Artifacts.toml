@@ -8,7 +8,7 @@ os = "linux"
 
     [[CUTENSOR.download]]
     sha256 = "ea207677838bdc1a4f157fae7dce9d25e5ab903b9d44c350aebd7f804dad3c75"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[CUTENSOR]]
 arch = "aarch64"
 cuda = "12.0"
@@ -20,7 +20,7 @@ os = "linux"
 
     [[CUTENSOR.download]]
     sha256 = "4c246a22fdba091aad06b62da3f89fe1a3a812277ae0a2fd3590cfccdbfcc9b8"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[CUTENSOR]]
 arch = "x86_64"
 cuda = "12.0"
@@ -30,7 +30,7 @@ os = "windows"
 
     [[CUTENSOR.download]]
     sha256 = "d00f6b229f139c304d2dcb6a55c133ad24f7249c97957924e118aa9819f8f008"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
 [[CUTENSOR]]
 arch = "x86_64"
 cuda = "13.0"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[CUTENSOR.download]]
     sha256 = "652607b555b33cde9fccadb5b9d4f42fae5d151e3a841df501e5c02783211a39"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
 [[CUTENSOR]]
 arch = "aarch64"
 cuda = "13.0"
@@ -52,7 +52,7 @@ os = "linux"
 
     [[CUTENSOR.download]]
     sha256 = "34d4661273d5a574bd606e0902822e502cbf374996948ea78721b7bde2d802d9"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
 [[CUTENSOR]]
 arch = "x86_64"
 cuda = "13.0"
@@ -62,4 +62,4 @@ os = "windows"
 
     [[CUTENSOR.download]]
     sha256 = "fd19088b6d923ff47a56037b483f7d45415e14a01e2ac65dfe2fbadeee48ea25"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+0/CUTENSOR.v2.7.0.x86_64-w64-mingw32-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_jll.jl/releases/download/CUTENSOR-v2.7.0+1/CUTENSOR.v2.7.0.x86_64-w64-mingw32-cuda+13.0.tar.gz"
